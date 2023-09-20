@@ -31,8 +31,6 @@ BEGIN
          V_MIME_TYPE := 'image/png';
       ELSIF V_BUFFER = HEXTORAW('25504446') THEN
          V_MIME_TYPE := 'application/pdf'; -- PDF
-
-      -- Adicione mais verificações para outros tipos de arquivo, se necessário
       ELSE
          V_MIME_TYPE := 'application/octet-stream'; -- Tipo desconhecido
       END IF;
