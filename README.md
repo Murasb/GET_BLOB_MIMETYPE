@@ -16,9 +16,3 @@ Para instruções de instalação e exemplos de uso, consulte a documentação o
 
 ### Contribuições
 Contribuições para este projeto são altamente incentivadas! Seja por meio de pull requests, relatórios de problemas ou fornecimento de feedback, sua contribuição pode ajudar a aprimorar essa função de detecção de mimetype.
-
-### Licença
-Este projeto está licenciado sob a Licença [Nome da Licença]. Consulte o arquivo LICENSE para obter mais detalhes.
-
-### Reconhecimentos
-Estendemos nossa gratidão a [Lista de Contribuidores ou Bibliotecas] por suas valiosas contribuições para este projeto.
